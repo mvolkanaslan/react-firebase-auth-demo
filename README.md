@@ -7,6 +7,7 @@
 ### Update email and password
 ### ReAuthentication for Expiration when updating email and password
 ### Reset Password Process
+Note: You can set the firebase credential in .env file
 <img src="https://github.com/mvolkanaslan/react-todo-auth-demo/blob/master/firebase-auth.gif">
 
 
