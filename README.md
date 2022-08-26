@@ -1,3 +1,17 @@
+# I tried a study about using firebase with React
+## In this project, I worked on the following titles
+### Create an Accaunt with Firebase Auth
+### Create Profile Document for Firebase Auth User in a Collection (profiles collection)
+### Login-Logout Operations
+### Update user profile properties
+### Update email and password
+### ReAuthentication for Expiration when updating email and password
+### Reset Password Process
+<img src="https://github.com/mvolkanaslan/react-todo-auth-demo/blob/master/firebase-auth.gif">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
