@@ -1,3 +1,5 @@
+<img src="https://github.com/mvolkanaslan/react-todo-auth-demo/blob/master/firebase-auth.gif">
+
 # I tried a study about using firebase with React
 ## In this project, I worked on the following titles
 ### Create an Accaunt with Firebase Auth
@@ -9,7 +11,6 @@
 ### Reset Password Process
 Note: You can set the firebase credential in .env file
 
-<img src="https://github.com/mvolkanaslan/react-todo-auth-demo/blob/master/firebase-auth.gif">
 
 
 
